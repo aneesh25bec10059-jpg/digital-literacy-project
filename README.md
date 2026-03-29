@@ -57,12 +57,12 @@ Included:
 
 ## 🔗 Project Links
 
-- 📁 GitHub Repository Link: [Paste your repo link here]  
-- 📊 Infographic Link (Canva/Drive): [Paste link here]  
+- 📁 GitHub Repository Link: https://github.com/aneesh25bec10059-jpg/digital-literacy-projec
+- 📊 Infographic Link (Canva/Drive): https://canva.link/2gz7drej006tz19 
 
 ---
 
 ## ✅ Conclusion
 This project helped in understanding the importance of digital literacy, safe online behavior, and awareness of cyber threats. It also improved communication and technical documentation skills.
 
-Github repo link= https://github.com/aneesh25bec10059-jpg/digital-literacy-project
+
